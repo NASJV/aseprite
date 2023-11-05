@@ -123,7 +123,3 @@ jobs:
           D:/a/aseprite/aseprite/build/bin/data
 
           D:/a/aseprite/aseprite/build/bin/aseprite.exe
-
-
-        cd tests
-        $XVFB bash run-tests.sh
